@@ -48,7 +48,7 @@ bottom: 0;
 
 <header>
 <h1>Welcome to </h1>
-<p>For Everything Brainrot Related</p>
+<p>Everything Brainrot Related</p>
 </header>
 
 <nav>
